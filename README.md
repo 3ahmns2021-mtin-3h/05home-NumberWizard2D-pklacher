@@ -25,8 +25,8 @@ None
 
 ### Lessons Learned: 
 <ul>
-  <li> Connecting C# Script to button <li>
-  <li> Change Text with C# Script <li>
+  <li> Connecting C# Script to button
+  <li> Change Text with C# Script
 <ul>
 
 
