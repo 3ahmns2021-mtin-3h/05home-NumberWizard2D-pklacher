@@ -4,10 +4,10 @@
 Introduction/Project summary 
 
 ### Development platform: 
-Windows 10, Unity 202015f1, Visual Studio 2019
+Windows 10, Unity 202015f1, Visual Studio 2019 16.7.5
 
 ### Target platform: 
-WebGL
+Desktop
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -16,15 +16,15 @@ Screenshots (concept and experience), Video
 None
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+None
 
 ### Project state: 
-1%
+100%
 
 ### Limitations: 
 
 ### Lessons Learned: 
-
+Connecting C# Script to button, 
 
 
 Copyright by pklacher
